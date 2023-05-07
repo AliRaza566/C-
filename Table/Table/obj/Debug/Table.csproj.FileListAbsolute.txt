@@ -1,0 +1,8 @@
+E:\c#\Table\Table\bin\Debug\Table.exe.config
+E:\c#\Table\Table\bin\Debug\Table.exe
+E:\c#\Table\Table\bin\Debug\Table.pdb
+E:\c#\Table\Table\obj\Debug\Table.csproj.AssemblyReference.cache
+E:\c#\Table\Table\obj\Debug\Table.csproj.SuggestedBindingRedirects.cache
+E:\c#\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+E:\c#\Table\Table\obj\Debug\Table.exe
+E:\c#\Table\Table\obj\Debug\Table.pdb

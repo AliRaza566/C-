@@ -1,0 +1,8 @@
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\bin\Debug\SeparateEvenOddForList.exe.config
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\bin\Debug\SeparateEvenOddForList.exe
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\bin\Debug\SeparateEvenOddForList.pdb
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\obj\Debug\SeparateEvenOddForList.csproj.AssemblyReference.cache
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\obj\Debug\SeparateEvenOddForList.csproj.SuggestedBindingRedirects.cache
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\obj\Debug\SeparateEvenOddForList.csproj.CoreCompileInputs.cache
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\obj\Debug\SeparateEvenOddForList.exe
+E:\c#\SeparateEvenOddForList\SeparateEvenOddForList\obj\Debug\SeparateEvenOddForList.pdb

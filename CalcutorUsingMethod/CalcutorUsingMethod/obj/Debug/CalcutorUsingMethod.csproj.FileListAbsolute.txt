@@ -1,0 +1,8 @@
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\bin\Debug\CalcutorUsingMethod.exe.config
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\bin\Debug\CalcutorUsingMethod.exe
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\bin\Debug\CalcutorUsingMethod.pdb
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\obj\Debug\CalcutorUsingMethod.csproj.AssemblyReference.cache
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\obj\Debug\CalcutorUsingMethod.csproj.SuggestedBindingRedirects.cache
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\obj\Debug\CalcutorUsingMethod.csproj.CoreCompileInputs.cache
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\obj\Debug\CalcutorUsingMethod.exe
+E:\c#\CalcutorUsingMethod\CalcutorUsingMethod\obj\Debug\CalcutorUsingMethod.pdb

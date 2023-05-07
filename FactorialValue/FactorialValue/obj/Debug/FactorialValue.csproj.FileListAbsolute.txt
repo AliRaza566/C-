@@ -1,0 +1,8 @@
+E:\c#\FactorialValue\FactorialValue\bin\Debug\FactorialValue.exe.config
+E:\c#\FactorialValue\FactorialValue\bin\Debug\FactorialValue.exe
+E:\c#\FactorialValue\FactorialValue\bin\Debug\FactorialValue.pdb
+E:\c#\FactorialValue\FactorialValue\obj\Debug\FactorialValue.csproj.AssemblyReference.cache
+E:\c#\FactorialValue\FactorialValue\obj\Debug\FactorialValue.csproj.SuggestedBindingRedirects.cache
+E:\c#\FactorialValue\FactorialValue\obj\Debug\FactorialValue.csproj.CoreCompileInputs.cache
+E:\c#\FactorialValue\FactorialValue\obj\Debug\FactorialValue.exe
+E:\c#\FactorialValue\FactorialValue\obj\Debug\FactorialValue.pdb

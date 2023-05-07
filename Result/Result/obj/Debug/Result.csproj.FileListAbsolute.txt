@@ -1,0 +1,8 @@
+E:\c#\Result\Result\bin\Debug\Result.exe.config
+E:\c#\Result\Result\bin\Debug\Result.exe
+E:\c#\Result\Result\bin\Debug\Result.pdb
+E:\c#\Result\Result\obj\Debug\Result.csproj.AssemblyReference.cache
+E:\c#\Result\Result\obj\Debug\Result.csproj.SuggestedBindingRedirects.cache
+E:\c#\Result\Result\obj\Debug\Result.csproj.CoreCompileInputs.cache
+E:\c#\Result\Result\obj\Debug\Result.exe
+E:\c#\Result\Result\obj\Debug\Result.pdb

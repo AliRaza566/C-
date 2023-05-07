@@ -1,0 +1,8 @@
+E:\c#\FindDayWithSwith\FindDayWithSwith\bin\Debug\FindDayWithSwith.exe.config
+E:\c#\FindDayWithSwith\FindDayWithSwith\bin\Debug\FindDayWithSwith.exe
+E:\c#\FindDayWithSwith\FindDayWithSwith\bin\Debug\FindDayWithSwith.pdb
+E:\c#\FindDayWithSwith\FindDayWithSwith\obj\Debug\FindDayWithSwith.csproj.AssemblyReference.cache
+E:\c#\FindDayWithSwith\FindDayWithSwith\obj\Debug\FindDayWithSwith.csproj.SuggestedBindingRedirects.cache
+E:\c#\FindDayWithSwith\FindDayWithSwith\obj\Debug\FindDayWithSwith.csproj.CoreCompileInputs.cache
+E:\c#\FindDayWithSwith\FindDayWithSwith\obj\Debug\FindDayWithSwith.exe
+E:\c#\FindDayWithSwith\FindDayWithSwith\obj\Debug\FindDayWithSwith.pdb

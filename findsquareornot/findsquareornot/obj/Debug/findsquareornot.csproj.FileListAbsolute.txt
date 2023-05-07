@@ -1,0 +1,8 @@
+E:\c#\findsquareornot\findsquareornot\bin\Debug\findsquareornot.exe.config
+E:\c#\findsquareornot\findsquareornot\bin\Debug\findsquareornot.exe
+E:\c#\findsquareornot\findsquareornot\bin\Debug\findsquareornot.pdb
+E:\c#\findsquareornot\findsquareornot\obj\Debug\findsquareornot.csproj.AssemblyReference.cache
+E:\c#\findsquareornot\findsquareornot\obj\Debug\findsquareornot.csproj.SuggestedBindingRedirects.cache
+E:\c#\findsquareornot\findsquareornot\obj\Debug\findsquareornot.csproj.CoreCompileInputs.cache
+E:\c#\findsquareornot\findsquareornot\obj\Debug\findsquareornot.exe
+E:\c#\findsquareornot\findsquareornot\obj\Debug\findsquareornot.pdb
